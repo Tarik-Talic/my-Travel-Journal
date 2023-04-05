@@ -1,14 +1,16 @@
 .card {
   display: flex;
   gap: 2rem;
+  width: 35.5rem;
+  height: 20.5rem;
 }
 img {
-  width: 600px;
-  height: 300px;
+  width: 200px;
+  height: 250px;
   border-radius: 10px;
 }
 .card__info > * {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .card-location {
   display: flex;

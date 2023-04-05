@@ -1,4 +1,18 @@
+.card {
+  display: flex;
+  gap: 2rem;
+}
 img {
-  width: 125px;
-  height: 168px;
+  width: 600px;
+  height: 300px;
+  border-radius: 10px;
+}
+.card__info > * {
+  margin-bottom: 2rem;
+}
+.card-location {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  margin-bottom: 1rem;
 }

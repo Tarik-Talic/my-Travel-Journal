@@ -53,22 +53,28 @@ export default [
   },
   {
     id: 5,
-    title: "",
-    location: "",
-    googleMapsUrl: "",
-    startDate: "",
-    endDate: "",
-    description: "",
-    imageUrl: "",
+    title: "The Blue Mosque",
+    location: "TURKEY",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/The+Blue+Mosque/@41.0054136,28.9746251,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9bd6570f4e1:0xe52df7368a157ca4!8m2!3d41.0054096!4d28.9768138!16zL20vMDF5ZnZf",
+    startDate: "3 Jan, 2022",
+    endDate: "7 Jan,2022",
+    description:
+      "The Blue Mosque in Istanbul, a functioning mosque, it also attracts large numbers of tourist visitors.  Hand-painted blue tiles adorn the mosques interior walls, and at night the mosque is bathed in blue as lights frame the mosques five main domes, six minarets and eight secondary domes.",
+    imageUrl:
+      "https://images.pexels.com/photos/4090269/pexels-photo-4090269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
   {
     id: 6,
-    title: "",
-    location: "",
-    googleMapsUrl: "",
-    startDate: "",
-    endDate: "",
-    description: "",
-    imageUrl: "",
+    title: "Colosseum",
+    location: "ITALY",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Colosseum/@41.8902142,12.4900422,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309!16zL20vMGQ1cXg",
+    startDate: "10 Jan, 2022",
+    endDate: "17 Jan , 2022",
+    description:
+      "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age.",
+    imageUrl:
+      "https://images.pexels.com/photos/356966/pexels-photo-356966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
 ];
